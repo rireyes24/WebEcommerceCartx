@@ -103,7 +103,7 @@ body
     height: 40px;
     justify-self: flex-end;
     align-self: flex-start;
-    background-image: url(/assets/icons/star.svg);
+    background-image: url(../assets/icons/star.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -117,7 +117,7 @@ body
     height: 40px;
     align-self: center;
     justify-self: center;
-    background-image: url(/assets/icons/stroke.svg);
+    background-image: url(../assets/icons/stroke.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -219,7 +219,7 @@ body
     display: block;
     align-self: center;
     justify-self: end;
-    background-image: url(/assets/icons/arrow.svg);
+    background-image: url(../assets/icons/arrow.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -251,7 +251,7 @@ body
     height: 40px;
     margin: 5px;
     justify-self: flex-start;    
-    background-image: url(/assets/icons/circles.svg);
+    background-image: url(../assets/icons/circles.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;    
@@ -300,7 +300,7 @@ body
     display: block;
     align-self: center;
     
-    background-image: url(/assets/icons/raya1.svg);
+    background-image: url(../assets/icons/raya1.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
